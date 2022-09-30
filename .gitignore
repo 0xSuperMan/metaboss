@@ -5,3 +5,4 @@
 .test_files
 docs-src/book
 src/error_files
+*.swp
